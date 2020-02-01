@@ -14,7 +14,7 @@
 		alt="Mia Immagine">
 	<c:forEach items="${list}" var="stringa">
 	
-	<p> ciao scemi </p>
+	
 	${stringa} 
 	
 	</c:forEach>
